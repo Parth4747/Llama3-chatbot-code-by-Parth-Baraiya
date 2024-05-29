@@ -1,5 +1,5 @@
 #chainlit==1.0.200
-chainlit
+chainlit==1.0.505
 langchain
 langchain_community
 PyPDF2
@@ -8,3 +8,7 @@ groq
 langchain-groq
 ollama
 python-dotenv
+python-pptx
+python-docx
+datetime
+speech_recognition
